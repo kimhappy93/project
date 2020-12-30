@@ -7,7 +7,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%
 
-//ver1.1
+
     // 인코딩
     request.setCharacterEncoding("UTF-8");
 	String id = (String)session.getAttribute("idKey");
